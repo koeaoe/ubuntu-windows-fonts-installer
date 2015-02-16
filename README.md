@@ -7,4 +7,4 @@ Step 2
 	cd ~
 Step 3
 ------
-	mkdir .fonts && wget -O fontsinstaler.zip https://github.com/proczekweb/ubuntu-windows-fonts-installer/archive/master.zip && unzip fontsinstaler.zip && cd ubuntu-windows-fonts-installer-master/ && sh ./vistafonts-installer.sh
+	mkdir .fonts && wget -O fontsinstaler.zip https://github.com/proczekweb/ubuntu-windows-fonts-installer/archive/master.zip && unzip fontsinstaler.zip && cd ubuntu-windows-fonts-installer-master/ && ubuntu sh ./vistafonts-installer.sh
